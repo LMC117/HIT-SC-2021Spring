@@ -1,0 +1,33 @@
+Period{2021-01-10,2021-03-06}
+Employee{
+　ZhangSan{Manger,139-0451-0000}
+　LiSi{Secretary,151-0101-0000}
+　WangWu{Associate Dean,177-2021-0301}
+　ZhaoLiua{Professor,138-1920-3912}
+　ZhaoLiub{Lecturer,138-1921-3912}
+　ZhaoLiuc{Professor,138-1922-3912}
+　ZhaoLiud{Lecturer,198-1920-3912}
+　ZhaoLiue{Professor,178-1920-3912}
+　ZhaoLiuf{Lecturer,138-1929-3912}
+　ZhaoLiug{Professor,138-1920-0000}
+　ZhaoLiuh{Assciate Professor,138-1929-0000}
+　ZhaoLiui{Professor,138-1920-0200}
+　ZhaoLiuj{AssciateProfessor,138-1920-0044}
+　ZhaoLiuk{Professor,188-1920-0000}
+}
+Roster{ 
+　ZhangSan{2021-01-10,2021-01-11}
+　LiSi{2021-01-11,2021-01-18}
+　WangWu{2021-01-21,2021-01-21}
+　ZhaoLiua{2021-01-22,2021-01-22}
+　ZhaoLiub{2021-01-23,2021-01-29}
+　ZhaoLiuc{2021-01-30,2021-01-31}
+　ZhaoLiud{2021-02-01,2021-02-08}
+　ZhaoLiue{2021-02-09,2021-02-15}
+　ZhaoLiuf{2021-02-16,2021-02-27}
+　ZhaoLiug{2021-02-25,2021-02-28}
+　ZhaoLiuh{2021-03-01,2021-03-01}
+　ZhaoLiui{2021-03-02,2021-03-04}
+　ZhaoLiuj{2021-03-05,2021-03-05}
+　ZhaoLiuk{2021-03-06,2021-03-06}
+}

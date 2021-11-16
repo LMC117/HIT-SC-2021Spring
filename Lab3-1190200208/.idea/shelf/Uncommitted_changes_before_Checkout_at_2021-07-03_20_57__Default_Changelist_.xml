@@ -1,0 +1,19 @@
+<changelist name="Uncommitted_changes_before_Checkout_at_2021-07-03_20_57_[Default_Changelist]" date="1625317035731" recycled="true" deleted="true">
+  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2021-07-03_20_57_[Default_Changelist]/shelved.patch" />
+  <option name="DESCRIPTION" value="Uncommitted changes before Checkout at 2021-07-03 20:57 [Default Changelist]" />
+  <binary>
+    <option name="BEFORE_PATH" value="doc/Lab3-1190200208-Report.docx" />
+    <option name="AFTER_PATH" value="doc/Lab3-1190200208-Report.docx" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2021-07-03_20_57_[Default_Changelist]/Lab3-1190200208-Report.docx" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="lib/junit-4.12.jar" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2021-07-03_20_57_[Default_Changelist]/junit-4.12.jar" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="lib/hamcrest-core-1.3.jar" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2021-07-03_20_57_[Default_Changelist]/hamcrest-core-1.3.jar" />
+  </binary>
+</changelist>
